@@ -1,3 +1,11 @@
+This is deprecated repository!
+==============================
+
+It was split into two repositories:
+[sbt-structure SBT plugin](https://github.com/JetBrains/sbt-structure)
+[Scala plugin now contains IDE specific part](https://github.com/JetBrains/intellij-scala?source=c)
+
+
 IntelliJ IDEA SBT plugin
 ========================
 
